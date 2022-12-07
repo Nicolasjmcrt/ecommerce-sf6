@@ -1,2 +1,2 @@
 # ecommerce-sf6
-## Symfony 6 E-commerce tutorial
+## Symfony 6 e-commerce tutorial
